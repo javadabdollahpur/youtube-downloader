@@ -8,6 +8,5 @@ Free YouTube Video Downloader for Windows.
     <img src="https://img.shields.io/badge/Download-Latest%20Version-brightgreen?style=for-the-badge&logo=github" alt="Download Latest Version">
   </a>
 </p>
+<p align="center" font-family:tahoma > نرم افزار رایگان دانلود از یوتیوب</p>
 
-# youtube-downloader
-نرم افزار دانلود از یوتیوب
