@@ -7,5 +7,5 @@
     <img src="https://img.shields.io/badge/Download-Latest%20Version-brightgreen?style=for-the-badge&logo=github" alt="Download Latest Version">
   </a>
 </p>
- <h1 align="center">نرم افزار رایگان دانلود از یوتیوب</h1>
+ <h2 align="center">نرم افزار رایگان دانلود از یوتیوب</h2>
 
