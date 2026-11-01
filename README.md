@@ -7,5 +7,5 @@
     <img src="https://img.shields.io/badge/Download-Latest%20Version-brightgreen?style=for-the-badge&logo=github" alt="Download Latest Version">
   </a>
 </p>
- <a href="https://github.com/javadabdollahpur/youtube-downloader/releases/latest">**نرم افزار رایگان دانلود از یوتیوب**</a>
+ <a href="https://github.com/javadabdollahpur/youtube-downloader/releases/latest"> # نرم افزار رایگان دانلود از یوتیوب </a>
 
